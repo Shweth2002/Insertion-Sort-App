@@ -3,6 +3,7 @@
 Insertion sort works similar to the sorting of playing cards in hands. It is assumed that the first card is already sorted in the card game, and then we select an unsorted card. If the selected unsorted card is greater than the first card, it will be placed at the right side; otherwise, it will be placed at the left side. Similarly, all unsorted cards are taken and put in their exact place.
 
 Algorithm:
+
 Step 1 - If the element is the first element, assume that it is already sorted. Return 1.
 
 Step2 - Pick the next element, and store it separately in a key.
